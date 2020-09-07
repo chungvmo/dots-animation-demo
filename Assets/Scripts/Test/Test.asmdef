@@ -1,0 +1,28 @@
+{
+    "name": "Test",
+    "references": [
+        "Unity.Jobs",
+        "Unity.Burst",
+        "Unity.Mathematics",
+        "Unity.Entities",
+        "Unity.Animation",
+        "Unity.Animation.DefaultGraphPipeline",
+        "Base",
+        "Unity.Collections",
+        "Unity.DataFlowGraph",
+        "Unity.Animation.Graph",
+        "Unity.Entities.Hybrid",
+        "Unity.Animation.Curves",
+        "Unity.Animation.Curves.Hybrid",
+        "Unity.Animation.Hybrid"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

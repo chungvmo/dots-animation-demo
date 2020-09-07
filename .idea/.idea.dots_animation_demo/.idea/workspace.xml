@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be4bfe6d-4df2-4602-ad8a-d32999893cc5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.animation@0.6.0-preview.2/Unity.Animation.Hybrid.Tests/ClipTransformationsTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.animation@0.6.0-preview.2/Unity.Animation.Graph.Tests/ClipNodeTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.animation@0.6.0-preview.2/Unity.Animation.Hybrid/BlobAssetStoreExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF21758B-7483-4EB4-8E7C-1FCB2DB3B79D/ee/94b6b017/IAnimationSystemTag.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.13.0-preview.24/Unity.Entities/ComponentSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.animation@0.6.0-preview.2/Unity.Animation.Editor/BlendTreeConversion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.animation@0.6.0-preview.2/Unity.Animation.Hybrid.Tests/ClipBuilderTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.animation@0.6.0-preview.2/Unity.Animation.Hybrid/ClipConversion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.13.0-preview.24/Unity.Entities/ComponentSystemBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.animation@0.6.0-preview.2/Unity.Animation.Hybrid.Tests/ClipInstanceBuilderPerformanceTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.13.0-preview.24/Unity.Entities/SystemBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.animation@0.6.0-preview.2/Unity.Animation.DefaultGraphPipeline/AnimationSystemGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.animation@0.6.0-preview.2/Unity.Animation.Graph/AnimationSystemBase.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base/Component/IDataComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base/Component/ISetupComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Test/Component/PerformanceSetupComponent.cs" />
+        <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.animation@0.6.0-preview.2/Unity.Animation.Graph/AnimationSystemBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base/System/BaseSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Test/Component/PerformanceDataComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base/System/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base/Monobehaviour/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base/MonoBehaviour/AnimationGraphBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base/Component/RigSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base/MonoBehaviour/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Test/MonoBehaviour/PerformanceTestGraph.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base/MonoBehaviour/AnimationInputBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base/System/RigSpawnerSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Test/System/TestSystem.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hAIT2SLLauW0sCfUqqITFwXTpI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be4bfe6d-4df2-4602-ad8a-d32999893cc5" name="Default Changelist" comment="" />
+      <created>1599447473712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599447473712</updated>
+      <workItem from="1599447499328" duration="1756000" />
+      <workItem from="1599449303269" duration="1677000" />
+      <workItem from="1599451217766" duration="3367000" />
+      <workItem from="1599454636950" duration="4898000" />
+      <workItem from="1599461611324" duration="122000" />
+      <workItem from="1599461758642" duration="111000" />
+      <workItem from="1599461894040" duration="623000" />
+      <workItem from="1599462544159" duration="1256000" />
+      <workItem from="1599464310431" duration="553000" />
+      <workItem from="1599464890480" duration="211000" />
+      <workItem from="1599467006160" duration="509000" />
+      <workItem from="1599467542093" duration="1336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="763" y="240" key="RiderGenerateDialog" timestamp="1599464085927">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="763" y="240" key="RiderGenerateDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599464085927" />
+    <state x="439" y="263" width="1044" height="660" key="find.popup" timestamp="1599464548537">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="439" y="263" width="1044" height="660" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1599464548537" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1599463640883">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1599463640883" />
+  </component>
+</project>

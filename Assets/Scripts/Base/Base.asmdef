@@ -1,0 +1,25 @@
+{
+    "name": "Base",
+    "references": [
+        "Unity.Jobs",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.Entities",
+        "Unity.Animation",
+        "Unity.Animation.Graph",
+        "Unity.DataFlowGraph",
+        "Unity.Animation.DefaultGraphPipeline",
+        "Unity.Entities.Hybrid",
+        "Unity.Animation.Hybrid",
+        "Unity.Transforms"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

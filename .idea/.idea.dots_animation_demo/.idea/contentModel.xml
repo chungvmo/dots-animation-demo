@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\hoang\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\hoang\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_dots_animation_demo.-650965519.00" t="ExcludeRecursive" />
+    <e p="C:\Users\hoang\Documents\UnityProjects\dots_animation_demo" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Base" t="Include">
+            <e p="Base.asmdef" t="Include" />
+            <e p="Component" t="Include">
+              <e p="IDataComponent.cs" t="Include" />
+              <e p="ISetupComponent.cs" t="Include" />
+              <e p="RigSpawner.cs" t="Include" />
+            </e>
+            <e p="Monobehaviour" t="Include">
+              <e p="AnimationGraphBase.cs" t="Include" />
+              <e p="AnimationInputBase.cs" t="Include" />
+              <e p="Spawner.cs" t="Include" />
+            </e>
+            <e p="System" t="Include">
+              <e p="BaseSystem.cs" t="Include" />
+              <e p="RigSpawnerSystem.cs" t="Include" />
+            </e>
+          </e>
+          <e p="SimpleCameraController.cs" t="Include" />
+          <e p="Test" t="Include">
+            <e p="Component" t="Include">
+              <e p="PerformanceDataComponent.cs" t="Include" />
+              <e p="PerformanceSetupComponent.cs" t="Include" />
+            </e>
+            <e p="Monobehaviour" t="Include">
+              <e p="PerformanceTestGraph.cs" t="Include" />
+            </e>
+            <e p="System" t="Include">
+              <e p="TestSystem.cs" t="Include" />
+            </e>
+            <e p="Test.asmdef" t="Include" />
+          </e>
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Base.csproj" t="IncludeRecursive" />
+      <e p="dots_animation_demo.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Test.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
